@@ -1,0 +1,14 @@
+header{
+    padding-top: 2vh;
+    padding-bottom: 2vh;
+    padding-left: 15vw;
+    padding-right: 15vw;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    align-items: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 0;
+    box-shadow: 5px 10px 10px rgb(0, 0, 0);
+    z-index: 5;
+}
